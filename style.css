@@ -89,10 +89,10 @@ font-size: 40px;
     padding: 3px;
 }
 .footer-bottom {
-    background-color: #000000;
+    background-color: #9b59b6;
     color: #FFF;
-    padding: 7px;
-    font-size: 12px;
+    padding: 8px;
+    font-size: 16px;
 }
 .footer-bottom a {
     font: bold 11px Arial;
@@ -100,7 +100,7 @@ font-size: 40px;
     background-color: #0d091fad;
     color: #f5efef;
     padding: 2px 4px 2px 4px;
-    font-size: 12px;
+    font-size: 16px;
     border-radius: 30px;
     font-weight: 500;
 }
