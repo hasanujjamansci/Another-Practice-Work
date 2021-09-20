@@ -94,3 +94,13 @@ font-size: 40px;
     padding: 7px;
     font-size: 12px;
 }
+.footer-bottom a {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #0d091fad;
+    color: #f5efef;
+    padding: 2px 4px 2px 4px;
+    font-size: 12px;
+    border-radius: 30px;
+    font-weight: 500;
+}
